@@ -1622,7 +1622,7 @@ section.icon_card > ul > li {
   overflow: hidden;
   box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.2);
   min-width: 320px;
-  min-height: 100px;
+  min-height: 50px;
   background-color: #f9f9f9;
   margin: 0;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
